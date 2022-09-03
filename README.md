@@ -2,7 +2,7 @@
 Code developed at 42's Piscine, a 20-day C and Shell bootcamp - from 15/ago/2022 to 09/set/2022.<br/>
 Please open an issue on github if you find anything incorrect.<br/>
 If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
-Don't Copy, Learn.` <br />
+`Don't Copy, Learn.` <br />
 
 ---
 
